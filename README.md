@@ -1,8 +1,8 @@
 rainbow-REVISED
 ===============
 
-I HAVE CHANGED THE STYLE SHEET TO UTILIZE THE BORDER COLOR INSTEAD OF THE BACKGROUND COLOR, THUS, ELEMINATING THE :AFTER PSEUDO SELECTOR.
+I have changed the style sheet to utilize the border color instead of the background color, thus, eliminating the unecessary :after pseudo selectors.
 
-I HAVE ALSO USED IDs TO IDENTIFY THE DOM ELEMENTS. I INITALLY WAS GOING TO MAKE TWO RAINBOWS AND MULTIPLE CLOUDS SO I USED CLASSES. I RAN OUT OF TIME.
+I have, also, used IDs to identify the DOM elements. I initially was going to create TWO rainbows and multiple clouds but, I ran out of time.
 
 
